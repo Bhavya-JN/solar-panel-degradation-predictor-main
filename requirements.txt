@@ -6,6 +6,7 @@ matplotlib==3.7.2
 seaborn==0.12.2
 Flask==2.3.2
 Flask-Login==0.6.2
+Flask-SQLAlchemy==3.1.1
 Werkzeug==2.3.6
 SQLAlchemy==2.0.19
 reportlab==4.0.4
