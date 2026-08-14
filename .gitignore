@@ -1,0 +1,27 @@
+.env
+.env.local
+.env.*
+!.env.example
+
+.venv/
+.venv311/
+venv/
+__pycache__/
+*.py[cod]
+*.pyo
+
+instance/
+uploads/
+outputs/
+
+.pytest_cache/
+.mypy_cache/
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Keep example env file and project data
+!data/
+!models/
+!.env.example
